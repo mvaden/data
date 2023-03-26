@@ -1,0 +1,2610 @@
+[
+   {
+      "state": "Alabama",
+      "medianPropertyTaxRate": 0.0033,
+      "baseSalesTax": 0.04,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 500,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 501,
+                  "maxLevel": 2999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 3000,
+                  "maxLevel": null,
+                  "percentage": 0.06
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1000,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 1001,
+                  "maxLevel": 6000,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 6001,
+                  "maxLevel": null,
+                  "percentage": 0.06
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Alaska",
+      "baseSalesTax": 0,
+      "incomeLevel": null
+   },
+   {
+      "state": "Arizona",
+      "medianPropertyTaxRate": 0.0072,
+      "baseSalesTax": 0.056,
+      "incomeLevel": [
+         {  
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 27271,
+                  "percentage": 0.0259
+               },
+               {
+                  "minLevel": 27272,
+                  "maxLevel": 54543,
+                  "percentage": 0.0334
+               },
+               {
+                  "minLevel": 54544,
+                  "maxLevel": 163631,
+                  "percentage": 0.0417
+               },
+               {
+                  "minLevel": 163362,
+                  "maxLevel": 249999,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 250000,
+                  "maxLevel": null,
+                  "percentage": 0.08
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 54543,
+                  "percentage": 0.0259
+               },
+               {
+                  "minLevel": 54544,
+                  "maxLevel": 109088,
+                  "percentage": 0.0334
+               },
+               {
+                  "minLevel": 109089,
+                  "maxLevel": 327253,
+                  "percentage": 0.0417
+               },
+               {
+                  "minLevel": 327254,
+                  "maxLevel": 499999,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 500000,
+                  "maxLevel": null,
+                  "percentage": 0.045
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Arkansas",
+      "medianPropertyTaxRate": 0.0052,
+      "baseSalesTax": 0.065,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 4300,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 4301,
+                  "maxLevel": 8500,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 8501,
+                  "maxLevel": null,
+                  "percentage": 0.049
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 4300,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 4301,
+                  "maxLevel": 8500,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 8501,
+                  "maxLevel": null,
+                  "percentage": 0.049
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "California",
+      "medianPropertyTaxRate": 0.0074,
+      "baseSalesTax": 0.0725,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 8931,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 8932,
+                  "maxLevel": 21174,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 21175,
+                  "maxLevel": 33420,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 33421,
+                  "maxLevel": 46393,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 46394,
+                  "maxLevel": 58633,
+                  "percentage": 0.08
+               },
+               {
+                  "minLevel": 58634,
+                  "maxLevel": 299507,
+                  "percentage": 0.093
+               },
+               {
+                  "minLevel": 299508,
+                  "maxLevel": 359406,
+                  "percentage": 0.103
+               },
+               {
+                  "minLevel": 359407,
+                  "maxLevel": 599011,
+                  "percentage": 0.113
+               },
+               {
+                  "minLevel": 599012,
+                  "maxLevel": 999999,
+                  "percentage": 0.123
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.133
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 8931,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 8932,
+                  "maxLevel": 21174,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 21175,
+                  "maxLevel": 33420,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 33421,
+                  "maxLevel": 46393,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 46394,
+                  "maxLevel": 58633,
+                  "percentage": 0.08
+               },
+               {
+                  "minLevel": 58634,
+                  "maxLevel": 299507,
+                  "percentage": 0.093
+               },
+               {
+                  "minLevel": 299508,
+                  "maxLevel": 359406,
+                  "percentage": 0.103
+               },
+               {
+                  "minLevel": 359407,
+                  "maxLevel": 599011,
+                  "percentage": 0.113
+               },
+               {
+                  "minLevel": 599012,
+                  "maxLevel": 999999,
+                  "percentage": 0.123
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.133
+               }
+            ]
+         } 
+      ]
+   },
+   {
+      "state": "Colorado",
+      "medianPropertyTaxRate": 0.006,
+      "baseSalesTax": 0.029,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0455
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0455
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Connecticut",
+      "medianPropertyTaxRate": 0.0163,
+      "baseSalesTax": 0.0635,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 9999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 49999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 50000,
+                  "maxLevel": 99999,
+                  "percentage": 0.055
+               },
+               {
+                  "minLevel": 100000,
+                  "maxLevel": 199999,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 200000,
+                  "maxLevel": 249999,
+                  "percentage": 0.065
+               },
+               {
+                  "minLevel": 250000,
+                  "maxLevel": 499999,
+                  "percentage": 0.069
+               },
+               {
+                  "minLevel": 500000,
+                  "maxLevel": null,
+                  "percentage": 0.0699
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 19999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 20000,
+                  "maxLevel": 99999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 100000,
+                  "maxLevel": 199999,
+                  "percentage": 0.055
+               },
+               {
+                  "minLevel": 200000,
+                  "maxLevel": 399999,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 400000,
+                  "maxLevel": 499999,
+                  "percentage": 0.065
+               },
+               {
+                  "minLevel": 500000,
+                  "maxLevel": 999999,
+                  "percentage": 0.069
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.0699
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Delaware",
+      "medianPropertyTaxRate": 0.0043,
+      "baseSalesTax": 0,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1999,
+                  "percentage": 0.022
+               },
+               {
+                  "minLevel": 2000,
+                  "maxLevel": 4999,
+                  "percentage": 0.039
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 9999,
+                  "percentage": 0.039
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 19999,
+                  "percentage": 0.048
+               },
+               {
+                  "minLevel": 20000,
+                  "maxLevel": 24999,
+                  "percentage": 0.052
+               },
+               {
+                  "minLevel": 25000,
+                  "maxLevel": 59999,
+                  "percentage": 0.0555
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": null,
+                  "percentage": 0.066
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1999,
+                  "percentage": 0.022
+               },
+               {
+                  "minLevel": 2000,
+                  "maxLevel": 4999,
+                  "percentage": 0.039
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 9999,
+                  "percentage": 0.039
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 19999,
+                  "percentage": 0.048
+               },
+               {
+                  "minLevel": 20000,
+                  "maxLevel": 24999,
+                  "percentage": 0.052
+               },
+               {
+                  "minLevel": 25000,
+                  "maxLevel": 59999,
+                  "percentage": 0.0555
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": null,
+                  "percentage": 0.066
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "District of Columbia",
+      "medianPropertyTaxRate": 0.0046,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 9999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 39999,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 40000,
+                  "maxLevel": 59999,
+                  "percentage": 0.065
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": 349999,
+                  "percentage": 0.085
+               },
+               {
+                  "minLevel": 350000,
+                  "maxLevel": 999999,
+                  "percentage": 0.0875
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.0895
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 9999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 39999,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 40000,
+                  "maxLevel": 59999,
+                  "percentage": 0.065
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": 349999,
+                  "percentage": 0.085
+               },
+               {
+                  "minLevel": 350000,
+                  "maxLevel": 999999,
+                  "percentage": 0.0875
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.0895
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Florida",
+      "medianPropertyTaxRate": 0.0097,
+      "baseSalesTax": 0.06,
+      "incomeLevel": null
+   },
+   {
+      "state": "Georgia",
+      "medianPropertyTaxRate": 0.0083,
+      "baseSalesTax": 0.04,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 749,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 750,
+                  "maxLevel": 2249,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 2250,
+                  "maxLevel": 3749,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 3750,
+                  "maxLevel": 5249,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 5250,
+                  "maxLevel": 6999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 7000,
+                  "maxLevel": null,
+                  "percentage": 0.0575
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 999,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 1000,
+                  "maxLevel": 2999,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 3000,
+                  "maxLevel": 4999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 6999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 7000,
+                  "maxLevel": 9999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": null,
+                  "percentage": 0.0575
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Hawaii",
+      "medianPropertyTaxRate": 0.0026,
+      "baseSalesTax": 0.04166,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 2399,
+                  "percentage": 0.014
+               },
+               {
+                  "minLevel": 2400,
+                  "maxLevel": 4799,
+                  "percentage": 0.032
+               },
+               {
+                  "minLevel": 4800,
+                  "maxLevel": 9599,
+                  "percentage": 0.055
+               },
+               {
+                  "minLevel": 9600,
+                  "maxLevel": 13399,
+                  "percentage": 0.064
+               },
+               {
+                  "minLevel": 14400,
+                  "maxLevel": 19199,
+                  "percentage": 0.068
+               },
+               {
+                  "minLevel": 19200,
+                  "maxLevel": 23999,
+                  "percentage": 0.072
+               },
+               {
+                  "minLevel": 24000,
+                  "maxLevel": 35999,
+                  "percentage": 0.076
+               },
+               {
+                  "minLevel": 36000,
+                  "maxLevel": 47999,
+                  "percentage": 0.079
+               },
+               {
+                  "minLevel": 48000,
+                  "maxLevel": 149999,
+                  "percentage": 0.0825
+               },
+               {
+                  "minLevel": 150000,
+                  "maxLevel": 174444,
+                  "percentage": 0.09
+               },
+               {
+                  "minLevel": 175000,
+                  "maxLevel": 199999,
+                  "percentage": 0.1 
+               },
+               {
+                  "minLevel": 200000,
+                  "maxLevel": null,
+                  "percentage": 0.11
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 4799,
+                  "percentage": 0.014
+               },
+               {
+                  "minLevel": 4800,
+                  "maxLevel": 9599,
+                  "percentage": 0.032
+               },
+               {
+                  "minLevel": 9600,
+                  "maxLevel": 19199,
+                  "percentage": 0.055
+               },
+               {
+                  "minLevel": 19200,
+                  "maxLevel": 28799,
+                  "percentage": 0.064
+               },
+               {
+                  "minLevel": 28800,
+                  "maxLevel": 38399,
+                  "percentage": 0.068
+               },
+               {
+                  "minLevel": 38400,
+                  "maxLevel": 47999,
+                  "percentage": 0.072
+               },
+               {
+                  "minLevel": 48000,
+                  "maxLevel": 71999,
+                  "percentage": 0.076
+               },
+               {
+                  "minLevel": 72000,
+                  "maxLevel": 95999,
+                  "percentage": 0.079
+               },
+               {
+                  "minLevel": 96000,
+                  "maxLevel": 299999,
+                  "percentage": 0.0825
+               },
+               {
+                  "minLevel": 300000,
+                  "maxLevel": 349999,
+                  "percentage": 0.09
+               },
+               {
+                  "minLevel": 350000,
+                  "maxLevel": 399999,
+                  "percentage": 0.10
+               },
+               {
+                  "minLevel": 400000,
+                  "maxLevel": null,
+                  "percentage": 0.11
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Idaho",
+      "medianPropertyTaxRate": 0.0069,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1567,
+                  "percentage": 0.01125
+               },
+               {
+                  "minLevel": 1568,
+                  "maxLevel": 3135,
+                  "percentage": 0.03125
+               },
+               {
+                  "minLevel": 3136,
+                  "maxLevel": 4703,
+                  "percentage": 0.03625
+               },
+               {
+                  "minLevel": 4704,
+                  "maxLevel": 6271,
+                  "percentage": 0.04625
+               },
+               {
+                  "minLevel": 6272,
+                  "maxLevel": 7839,
+                  "percentage": 0.05625
+               },
+               {
+                  "minLevel": 7840,
+                  "maxLevel": 11759,
+                  "percentage": 0.06625
+               },
+               {
+                  "minLevel": 11760,
+                  "maxLevel": null,
+                  "percentage": 0.06925
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3135,
+                  "percentage": 0.01125
+               },
+               {
+                  "minLevel": 3136,
+                  "maxLevel": 6271,
+                  "percentage": 0.03125
+               },
+               {
+                  "minLevel": 6772,
+                  "maxLevel": 9407,
+                  "percentage": 0.03625
+               },
+               {
+                  "minLevel": 9408,
+                  "maxLevel": 12543,
+                  "percentage": 0.04625
+               },
+               {
+                  "minLevel": 12544,
+                  "maxLevel": 15679,
+                  "percentage": 0.05625
+               },
+               {
+                  "minLevel": 15680,
+                  "maxLevel": 23519,
+                  "percentage": 0.06625
+               },
+               {
+                  "minLevel": 23520,
+                  "maxLevel": null,
+                  "percentage": 0.06925
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Illinois",
+      "medianPropertyTaxRate": 0.0173,
+      "baseSalesTax": 0.0625,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0495
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0495
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Indiana",
+      "medianPropertyTaxRate": 0.0085,
+      "baseSalesTax": 0.07,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0323
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0323
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Iowa",
+      "medianPropertyTaxRate": 0.0129,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1675,
+                  "percentage": 0.033
+               },
+               {
+                  "minLevel": 1676,
+                  "maxLevel": 3351,
+                  "percentage": 0.067
+               },
+               {
+                  "minLevel": 3352,
+                  "maxLevel": 6703,
+                  "percentage": 0.0225
+               },
+               {
+                  "minLevel": 6704,
+                  "maxLevel": 15083,
+                  "percentage": 0.0414
+               },
+               {
+                  "minLevel": 15084,
+                  "maxLevel": 25139,
+                  "percentage": 0.0563
+               },
+               {
+                  "minLevel": 25140,
+                  "maxLevel": 33519,
+                  "percentage": 0.0596
+               },
+               {
+                  "minLevel": 33520,
+                  "maxLevel": 50279,
+                  "percentage": 0.0625
+               },
+               {
+                  "minLevel": 52820,
+                  "maxLevel": 75419,
+                  "percentage": 0.0744
+               },
+               {
+                  "minLevel": 75420,
+                  "maxLevel": null,
+                  "percentage": 0.0853
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1675,
+                  "percentage": 0.033
+               },
+               {
+                  "minLevel": 1676,
+                  "maxLevel": 3351,
+                  "percentage": 0.067
+               },
+               {
+                  "minLevel": 3352,
+                  "maxLevel": 6703,
+                  "percentage": 0.0225
+               },
+               {
+                  "minLevel": 6704,
+                  "maxLevel": 15083,
+                  "percentage": 0.0414
+               },
+               {
+                  "minLevel": 15084,
+                  "maxLevel": 25139,
+                  "percentage": 0.0563
+               },
+               {
+                  "minLevel": 25140,
+                  "maxLevel": 33519,
+                  "percentage": 0.0596
+               },
+               {
+                  "minLevel": 33520,
+                  "maxLevel": 50279,
+                  "percentage": 0.0625
+               },
+               {
+                  "minLevel": 52820,
+                  "maxLevel": 75419,
+                  "percentage": 0.0744
+               },
+               {
+                  "minLevel": 75420,
+                  "maxLevel": null,
+                  "percentage": 0.0853
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Kansas",
+      "medianPropertyTaxRate": 0.0129,
+      "baseSalesTax": 0.065,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 14999,
+                  "percentage": 0.031
+               },
+               {
+                  "minLevel": 15000,
+                  "maxLevel": 29999,
+                  "percentage": 0.0525
+               },
+               {
+                  "minLevel": 30000,
+                  "maxLevel": null,
+                  "percentage": 0.057
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 29999,
+                  "percentage": 0.031
+               },
+               {
+                  "minLevel": 30000,
+                  "maxLevel": 59999,
+                  "percentage": 0.0525
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": null,
+                  "percentage": 0.057
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Kentucky",
+      "medianPropertyTaxRate": 0.0072,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.05
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.05
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Louisiana",
+      "medianPropertyTaxRate": 0.0018,
+      "baseSalesTax": 0.0445,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 12499,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 12500,
+                  "maxLevel": 49999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 50000,
+                  "maxLevel": null,
+                  "percentage": 0.06
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 24999,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 25000,
+                  "maxLevel": 99999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 100000,
+                  "maxLevel": null,
+                  "percentage": 0.06
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Maine",
+      "baseSalesTax": 0.055,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 22449,
+                  "percentage": 0.058
+               },
+               {
+                  "minLevel": 22450,
+                  "maxLevel": 53149,
+                  "percentage": 0.0675
+               },
+               {
+                  "minLevel": 53150,
+                  "maxLevel": null,
+                  "percentage": 0.0715
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 44949,
+                  "percentage": 0.058
+               },
+               {
+                  "minLevel": 44950,
+                  "maxLevel": 106349,
+                  "percentage": 0.0675
+               },
+               {
+                  "minLevel": 106350,
+                  "maxLevel": null,
+                  "percentage": 0.0715
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Maryland",
+      "medianPropertyTaxRate": 0.0087,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 999,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 1000,
+                  "maxLevel": 1999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 2000,
+                  "maxLevel": 2999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 3000,
+                  "maxLevel": 99999,
+                  "percentage": 0.0475
+               },
+               {
+                  "minLevel": 100000,
+                  "maxLevel": 124999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 125000,
+                  "maxLevel": 149999,
+                  "percentage": 0.0525
+               },
+               {
+                  "minLevel": 150000,
+                  "maxLevel": 249999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 250000,
+                  "maxLevel": null,
+                  "percentage": 0.0575
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 999,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 1000,
+                  "maxLevel": 1999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 2000,
+                  "maxLevel": 2999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 3000,
+                  "maxLevel": 149999,
+                  "percentage": 0.0475
+               },
+               {
+                  "minLevel": 150000,
+                  "maxLevel": 174999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 175000,
+                  "maxLevel": 224999,
+                  "percentage": 0.0525
+               },
+               {
+                  "minLevel": 225000,
+                  "maxLevel": 299999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 300000,
+                  "maxLevel": null,
+                  "percentage": 0.0575
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Massachusetts",
+      "baseSalesTax": 0.0625,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 999999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.09
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 999999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.09
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Michigan",
+      "medianPropertyTaxRate": 0.0162,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0425
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0425
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Minnisota",
+      "baseSalesTax": 0.06875,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 27229,
+                  "percentage": 0.0535
+               },
+               {
+                  "minLevel": 27230,
+                  "maxLevel": 89439,
+                  "percentage": 0.068
+               },
+               {
+                  "minLevel": 89440,
+                  "maxLevel": 166039,
+                  "percentage": 0.0785
+               },
+               {
+                  "minLevel": 166040,
+                  "maxLevel": null,
+                  "percentage": 0.0985
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 39809,
+                  "percentage": 0.0535
+               },
+               {
+                  "minLevel": 39810,
+                  "maxLevel": 158139,
+                  "percentage": 0.068
+               },
+               {
+                  "minLevel": 158140,
+                  "maxLevel": 276199,
+                  "percentage": 0.0785
+               },
+               {
+                  "minLevel": 276200,
+                  "maxLevel": null,
+                  "percentage": 0.0985
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Mississippi",
+      "medianPropertyTaxRate": 0.0052,
+      "baseSalesTax": 0.07,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3999,
+                  "percentage": 0.00
+               },
+               {
+                  "minLevel": 4000,
+                  "maxLevel": 4999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 9999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": null,
+                  "percentage": 0.05
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3999,
+                  "percentage": 0.00
+               },
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 4000,
+                  "maxLevel": 4999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": null,
+                  "percentage": 0.05
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Missouri",
+      "medianPropertyTaxRate": 0.0091,
+      "baseSalesTax": 0.07,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 106,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 107,
+                  "maxLevel": 1072,
+                  "percentage": 0.015
+               },
+               {
+                  "minLevel": 1073,
+                  "maxLevel": 2145,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 2146,
+                  "maxLevel": 3218,
+                  "percentage": 0.025
+               },
+               {
+                  "minLevel": 3219,
+                  "maxLevel": 4291,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 4292,
+                  "maxLevel": 5364,
+                  "percentage": 0.035
+               },
+               {
+                  "minLevel": 5365,
+                  "maxLevel": 6437,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 6438,
+                  "maxLevel": 7510,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 7511,
+                  "maxLevel": 8583,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 8584,
+                  "maxLevel": null,
+                  "percentage": 0.054
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 106,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 107,
+                  "maxLevel": 1072,
+                  "percentage": 0.015
+               },
+               {
+                  "minLevel": 1073,
+                  "maxLevel": 2145,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 2146,
+                  "maxLevel": 3218,
+                  "percentage": 0.025
+               },
+               {
+                  "minLevel": 3219,
+                  "maxLevel": 4291,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 4292,
+                  "maxLevel": 5364,
+                  "percentage": 0.035
+               },
+               {
+                  "minLevel": 5365,
+                  "maxLevel": 6437,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 6438,
+                  "maxLevel": 7510,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 7511,
+                  "maxLevel": 8583,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 8584,
+                  "maxLevel": null,
+                  "percentage": 0.054
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Montana",
+      "medianPropertyTaxRate": 0.0083,
+      "baseSalesTax": 0,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3099,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 3100,
+                  "maxLevel": 5499,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 5500,
+                  "maxLevel": 8399,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 8400,
+                  "maxLevel": 11299,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 11300,
+                  "maxLevel": 14499,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 14500,
+                  "maxLevel": 18699,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 18700,
+                  "maxLevel": null,
+                  "percentage": 0.069
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3099,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 3100,
+                  "maxLevel": 5499,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 5500,
+                  "maxLevel": 8399,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 8400,
+                  "maxLevel": 11299,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 11300,
+                  "maxLevel": 14499,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 14500,
+                  "maxLevel": 18699,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 18700,
+                  "maxLevel": null,
+                  "percentage": 0.069
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Nebraska",
+      "medianPropertyTaxRate": 0.0176,
+      "baseSalesTax": 0.055,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3339,
+                  "percentage": 0.0246
+               },
+               {
+                  "minLevel": 3340,
+                  "maxLevel": 19989,
+                  "percentage": 0.0351
+               },
+               {
+                  "minLevel": 19990,
+                  "maxLevel": 32209,
+                  "percentage": 0.0501
+               },
+               {
+                  "minLevel": 32210,
+                  "maxLevel": null,
+                  "percentage": 0.0684
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 6659,
+                  "percentage": 0.0246
+               },
+               {
+                  "minLevel": 6660,
+                  "maxLevel": 33989,
+                  "percentage": 0.0351
+               },
+               {
+                  "minLevel": 39990,
+                  "maxLevel": 64429,
+                  "percentage": 0.0501
+               },
+               {
+                  "minLevel": 64430,
+                  "maxLevel": null,
+                  "percentage": 0.0684
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Nevada",
+      "medianPropertyTaxRate": 0.0084,
+      "baseSalesTax": 0.0685,
+      "incomeLevel": null
+   },
+   {
+      "state": "New Hampshire",
+      "medianPropertyTaxRate": 0.0186,
+      "baseSalesTax": 0,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 2399,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 2400,
+                  "maxLevel": null,
+                  "percentage": 0.04
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 4799,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 4800,
+                  "maxLevel": null,
+                  "percentage": 0.04
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "New Jersey",
+      "medianPropertyTaxRate": 0.0189,
+      "baseSalesTax": 0.06625,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 19999,
+                  "percentage": 0.014
+               },
+               {
+                  "minLevel": 20000,
+                  "maxLevel": 34999,
+                  "percentage": 0.0175
+               },
+               {
+                  "minLevel": 35000,
+                  "maxLevel": 39999,
+                  "percentage": 0.035
+               },
+               {
+                  "minLevel": 40000,
+                  "maxLevel": 74999,
+                  "percentage": 0.05525
+               },
+               {
+                  "minLevel": 75000,
+                  "maxLevel": 499999,
+                  "percentage": 0.0637
+               },
+               {
+                  "minLevel": 500000,
+                  "maxLevel": 999999,
+                  "percentage": 0.0897
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.1075
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 19999,
+                  "percentage": 0.014
+               },
+               {
+                  "minLevel": 20000,
+                  "maxLevel": 49999,
+                  "percentage": 0.0175
+               },
+               {
+                  "minLevel": 50000,
+                  "maxLevel": 69999,
+                  "percentage": 0.0245
+               },
+               {
+                  "minLevel": 70000,
+                  "maxLevel": 79999,
+                  "percentage": 0.035
+               },
+               {
+                  "minLevel": 80000,
+                  "maxLevel": 149999,
+                  "percentage": 0.05525
+               },
+               {
+                  "minLevel": 150000,
+                  "maxLevel": 499999,
+                  "percentage": 0.0637
+               },
+               {
+                  "minLevel": 500000,
+                  "maxLevel": 999999,
+                  "percentage": 0.0897
+               },
+               {
+                  "minLevel": 1000000,
+                  "maxLevel": null,
+                  "percentage": 0.1075
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "New Mexico",
+      "medianPropertyTaxRate": 0.0055,
+      "baseSalesTax": 0.05125,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 5499,
+                  "percentage": 0.017
+               },
+               {
+                  "minLevel": 5500,
+                  "maxLevel": 10999,
+                  "percentage": 0.032
+               },
+               {
+                  "minLevel": 11000,
+                  "maxLevel": 15999,
+                  "percentage": 0.047
+               },
+               {
+                  "minLevel": 16000,
+                  "maxLevel": 209999,
+                  "percentage": 0.049
+               },
+               {
+                  "minLevel": 210000,
+                  "maxLevel": null,
+                  "percentage": 0.059
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 7999,
+                  "percentage": 0.017
+               },
+               {
+                  "minLevel": 8000,
+                  "maxLevel": 15999,
+                  "percentage": 0.032
+               },
+               {
+                  "minLevel": 16000,
+                  "maxLevel": 24999,
+                  "percentage": 0.047
+               },
+               {
+                  "minLevel": 25000,
+                  "maxLevel": 314999,
+                  "percentage": 0.049
+               },
+               {
+                  "minLevel": 315000,
+                  "maxLevel": null,
+                  "percentage": 0.059
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "New York",
+      "medianPropertyTaxRate": 0.0123,
+      "baseSalesTax": 0.04,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 8499,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 8500,
+                  "maxLevel": 11699,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 11700,
+                  "maxLevel": 13899,
+                  "percentage": 0.0525
+               },
+               {
+                  "minLevel": 13900,
+                  "maxLevel": 21399,
+                  "percentage": 0.059
+               },
+               {
+                  "minLevel": 21400,
+                  "maxLevel": 80649,
+                  "percentage": 0.0597
+               },
+               {
+                  "minLevel": 80650,
+                  "maxLevel": 215399,
+                  "percentage": 0.0633
+               },
+               {
+                  "minLevel": 215400,
+                  "maxLevel": 1077449,
+                  "percentage": 0.0685
+               },
+               {
+                  "minLevel": 1077500,
+                  "maxLevel": null,
+                  "percentage": 0.0882
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 17149,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 17150,
+                  "maxLevel": 23599,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 23600,
+                  "maxLevel": 27899,
+                  "percentage": 0.0525
+               },
+               {
+                  "minLevel": 27900,
+                  "maxLevel": 42999,
+                  "percentage": 0.059
+               },
+               {
+                  "minLevel": 43000,
+                  "maxLevel": 161549,
+                  "percentage": 0.0597
+               },
+               {
+                  "minLevel": 161550,
+                  "maxLevel": 323199,
+                  "percentage": 0.0633
+               },
+               {
+                  "minLevel": 323200,
+                  "maxLevel": 2155349,
+                  "percentage": 0.0685
+               },
+               {
+                  "minLevel": 2155350,
+                  "maxLevel": null,
+                  "percentage": 0.0882
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "North Carolina",
+      "medianPropertyTaxRate": 0.0078,
+      "baseSalesTax": 0.05,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0525
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0525
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "North Dakota",
+      "medianPropertyTaxRate": 0.0142,
+      "baseSalesTax": 0.05,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 40124,
+                  "percentage": 0.011
+               },
+               {
+                  "minLevel": 40125,
+                  "maxLevel": 97149,
+                  "percentage": 0.0204
+               },
+               {
+                  "minLevel": 97150,
+                  "maxLevel": 202649,
+                  "percentage": 0.0227
+               },
+               {
+                  "minLevel": 202650,
+                  "maxLevel": 440599,
+                  "percentage": 0.0264
+               },
+               {
+                  "minLevel": 440650,
+                  "maxLevel": null,
+                  "percentage": 0.029
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 67049,
+                  "percentage": 0.011
+               },
+               {
+                  "minLevel": 67050,
+                  "maxLevel": 161949,
+                  "percentage": 0.0204
+               },
+               {
+                  "minLevel": 161950,
+                  "maxLevel": 246699,
+                  "percentage": 0.0227
+               },
+               {
+                  "minLevel": 246700,
+                  "maxLevel": 440599,
+                  "percentage": 0.0264
+               },
+               {
+                  "minLevel": 440650,
+                  "maxLevel": null,
+                  "percentage": 0.029
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Ohio",
+      "medianPropertyTaxRate": 0.0136,
+      "baseSalesTax": 0.0575,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 22149,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 22150,
+                  "maxLevel": 44249,
+                  "percentage": 0.0285
+               },
+               {
+                  "minLevel": 44250,
+                  "maxLevel": 88449,
+                  "percentage": 0.03326
+               },
+               {
+                  "minLevel": 88450,
+                  "maxLevel": 110649,
+                  "percentage": 0.03802
+               },
+               {
+                  "minLevel": 110650,
+                  "maxLevel": 221299,
+                  "percentage": 0.04413
+               },
+               {
+                  "minLevel": 221300,
+                  "maxLevel": null,
+                  "percentage": 0.04797
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 22149,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 22150,
+                  "maxLevel": 44249,
+                  "percentage": 0.0285
+               },
+               {
+                  "minLevel": 44250,
+                  "maxLevel": 88449,
+                  "percentage": 0.03326
+               },
+               {
+                  "minLevel": 88450,
+                  "maxLevel": 110649,
+                  "percentage": 0.03802
+               },
+               {
+                  "minLevel": 110650,
+                  "maxLevel": 221299,
+                  "percentage": 0.04413
+               },
+               {
+                  "minLevel": 221300,
+                  "maxLevel": null,
+                  "percentage": 0.04797
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Oklahoma",
+      "medianPropertyTaxRate": 0.0074,
+      "baseSalesTax": 0.045,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 999,
+                  "percentage": 0.005
+               },
+               {
+                  "minLevel": 1000,
+                  "maxLevel": 2499,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 2500,
+                  "maxLevel": 3749,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 3750,
+                  "maxLevel": 4899,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 4900,
+                  "maxLevel": 7199,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 7200,
+                  "maxLevel": null,
+                  "percentage": 0.05
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 1999,
+                  "percentage": 0.005
+               },
+               {
+                  "minLevel": 2000,
+                  "maxLevel": 4999,
+                  "percentage": 0.01
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 7499,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 7500,
+                  "maxLevel": 9799,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 9800,
+                  "maxLevel": 12199,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 12200,
+                  "maxLevel": null,
+                  "percentage": 0.05
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Oregon",
+      "medianPropertyTaxRate": 0.0087,
+      "baseSalesTax": 0,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3649,
+                  "percentage": 0.0475
+               },
+               {
+                  "minLevel": 3650,
+                  "maxLevel": 9199,
+                  "percentage": 0.0675
+               },
+               {
+                  "minLevel": 9200,
+                  "maxLevel": 124999,
+                  "percentage": 0.0875
+               },
+               {
+                  "minLevel": 125000,
+                  "maxLevel": null,
+                  "percentage": 0.099
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 7299,
+                  "percentage": 0.0475
+               },
+               {
+                  "minLevel": 7300,
+                  "maxLevel": 18399,
+                  "percentage": 0.0675
+               },
+               {
+                  "minLevel": 18400,
+                  "maxLevel": 249999,
+                  "percentage": 0.0875
+               },
+               {
+                  "minLevel": 250000,
+                  "maxLevel": null,
+                  "percentage": 0.099
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Pennsylvania",
+      "medianPropertyTaxRate": 0.0135,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0307
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0307
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Rhode Island",
+      "medianPropertyTaxRate": 0.0135,
+      "baseSalesTax": 0.07,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 66199,
+                  "percentage": 0.0375
+               },
+               {
+                  "minLevel": 66200,
+                  "maxLevel": 150449,
+                  "percentage": 0.0475
+               },
+               {
+                  "minLevel": 150550,
+                  "maxLevel": null,
+                  "percentage": 0.0559
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 66199,
+                  "percentage": 0.0375
+               },
+               {
+                  "minLevel": 66200,
+                  "maxLevel": 150449,
+                  "percentage": 0.0475
+               },
+               {
+                  "minLevel": 150550,
+                  "maxLevel": null,
+                  "percentage": 0.0559
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "South Carolina",
+      "medianPropertyTaxRate": 0.005,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3069,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 3070,
+                  "maxLevel": 6149,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 6150,
+                  "maxLevel": 9229,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 9230,
+                  "maxLevel": 12309,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 12310,
+                  "maxLevel": 15399,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 15400,
+                  "maxLevel": null,
+                  "percentage": 0.07
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 3069,
+                  "percentage": 0
+               },
+               {
+                  "minLevel": 3070,
+                  "maxLevel": 6149,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 6150,
+                  "maxLevel": 9229,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 9230,
+                  "maxLevel": 12309,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 12310,
+                  "maxLevel": 15399,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 15400,
+                  "maxLevel": null,
+                  "percentage": 0.07
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "South Dakota",
+      "medianPropertyTaxRate": 0.0128,
+      "baseSalesTax": 0.04,
+      "incomeLevel": null
+   },
+   {
+      "state": "Tennessee",
+      "medianPropertyTaxRate": 0.0068,
+      "baseSalesTax": 0.07,
+      "incomeLevel": null
+   },
+   {
+      "state": "Texas",
+      "medianPropertyTaxRate": 0.0181,
+      "baseSalesTax": 0.0625,
+      "incomeLevel": null
+   },
+   {
+      "state": "Utah",
+      "medianPropertyTaxRate": 0.006,
+      "baseSalesTax": 0.0595,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0495
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": null,
+                  "percentage": 0.0495
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Vermont",
+      "medianPropertyTaxRate": 0.0159,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 40349,
+                  "percentage": 0.0335
+               },
+               {
+                  "minLevel": 40350,
+                  "maxLevel": 97999,
+                  "percentage": 0.066
+               },
+               {
+                  "minLevel": 97800,
+                  "maxLevel": 203999,
+                  "percentage": 0.076
+               },
+               {
+                  "minLevel": 204000,
+                  "maxLevel": null,
+                  "percentage": 0.0875
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 67449,
+                  "percentage": 0.0335
+               },
+               {
+                  "minLevel": 67450,
+                  "maxLevel": 162999,
+                  "percentage": 0.066
+               },
+               {
+                  "minLevel": 163000,
+                  "maxLevel": 148349,
+                  "percentage": 0.076
+               },
+               {
+                  "minLevel": 148350,
+                  "maxLevel": null,
+                  "percentage": 0.0875
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Virginia",
+      "medianPropertyTaxRate": 0.0074,
+      "baseSalesTax": 0.053,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 2999,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 3000,
+                  "maxLevel": 4999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 16999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 17000,
+                  "maxLevel": null,
+                  "percentage": 0.0575
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 2999,
+                  "percentage": 0.02
+               },
+               {
+                  "minLevel": 3000,
+                  "maxLevel": 4999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 5000,
+                  "maxLevel": 16999,
+                  "percentage": 0.05
+               },
+               {
+                  "minLevel": 17000,
+                  "maxLevel": null,
+                  "percentage": 0.0575
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Washington",
+      "medianPropertyTaxRate": 0.0092,
+      "baseSalesTax": 0.065,
+      "incomeLevel": null
+   },
+   {
+      "state": "West Virginia",
+      "medianPropertyTaxRate": 0.0049,
+      "baseSalesTax": 0.06,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 9999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 24999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 25000,
+                  "maxLevel": 39999,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 40000,
+                  "maxLevel": 59999,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": null,
+                  "percentage": 0.065
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 9999,
+                  "percentage": 0.03
+               },
+               {
+                  "minLevel": 10000,
+                  "maxLevel": 24999,
+                  "percentage": 0.04
+               },
+               {
+                  "minLevel": 25000,
+                  "maxLevel": 39999,
+                  "percentage": 0.045
+               },
+               {
+                  "minLevel": 40000,
+                  "maxLevel": 59999,
+                  "percentage": 0.06
+               },
+               {
+                  "minLevel": 60000,
+                  "maxLevel": null,
+                  "percentage": 0.065
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Wisconsin",
+      "medianPropertyTaxRate": 0.0176,
+      "baseSalesTax": 0.05,
+      "incomeLevel": [
+         {
+            "single": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 12119,
+                  "percentage": 0.0354
+               },
+               {
+                  "minLevel": 12120,
+                  "maxLevel": 24249,
+                  "percentage": 0.0465
+               },
+               {
+                  "minLevel": 24250,
+                  "maxLevel": 266929,
+                  "percentage": 0.0627
+               },
+               {
+                  "minLevel": 266930,
+                  "maxLevel": null,
+                  "percentage": 0.0765
+               }
+            ],
+            "marriedJointly": [
+               {
+                  "minLevel": 0,
+                  "maxLevel": 16159,
+                  "percentage": 0.0354
+               },
+               {
+                  "minLevel": 16160,
+                  "maxLevel": 32329,
+                  "percentage": 0.0465
+               },
+               {
+                  "minLevel": 32330,
+                  "maxLevel": 355909,
+                  "percentage": 0.0627
+               },
+               {
+                  "minLevel": 355910,
+                  "maxLevel": null,
+                  "percentage": 0.0765
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "state": "Wyoming",
+      "medianPropertyTaxRate": 0.0058,
+      "baseSalesTax": 0.04,
+      "incomeLevel": null
+   }
+]
